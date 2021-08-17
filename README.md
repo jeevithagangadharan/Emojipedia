@@ -1,0 +1,2 @@
+# Emojipedia
+React Mapping Component
